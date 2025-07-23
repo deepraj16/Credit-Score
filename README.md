@@ -46,10 +46,4 @@ This project uses the **German Credit dataset** to build a machine learning mode
 
 ---
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/yourusername/german-credit-risk.git
-cd german-credit-risk
-pip install -r requirements.txt
 
