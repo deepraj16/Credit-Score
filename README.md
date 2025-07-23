@@ -7,7 +7,7 @@ This project uses the **German Credit dataset** to build a machine learning mode
 - Source: UCI Machine Learning Repository
 - Rows: 1000 samples
 - Features: 20 (categorical + numerical)
-- Target: `Credit Risk` (Good = 1, Bad = 0)
+- Target: `Credit Risk`
 
 ## 🛠 Tech Stack
 
