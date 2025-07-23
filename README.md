@@ -34,7 +34,6 @@ This project uses the **German Credit dataset** to build a machine learning mode
    - Accuracy, Precision, Recall, F1-score
    - Confusion matrix and ROC curve
 5. **Model Comparison & Selection**
-6. **Feature Importance Visualization**
 
 ---
 
